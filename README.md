@@ -1,7 +1,4 @@
 === Easy Background ===
-Author URI: https://firatgoktepe.vercel.app/
-Tags: background, background image, full screen, image, font-size, color
-Requires at least: 3.6
 
 This plugin provides easily adding a full-screen background image, font sizes and colors for your single page website.
 
