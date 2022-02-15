@@ -17,4 +17,5 @@ and view your site. The image should now be applied as a full screen background 
 3. Navigate to Appearance > Easy Background Image and upload your background image
 
 == Screenshots ==
-
+<img width="721" alt="Screenshot 2022-02-15 at 16 55 29" src="https://user-images.githubusercontent.com/47864126/154076859-242defd3-c338-4876-96a5-884784496b06.png">
+<img width="611" alt="Screenshot 2022-02-15 at 16 55 39" src="https://user-images.githubusercontent.com/47864126/154076884-90fd7724-9a7c-495e-8591-0ec350fce5c2.png">
