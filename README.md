@@ -19,3 +19,6 @@ and view your site. The image should now be applied as a full screen background 
 == Screenshots ==
 <img width="721" alt="Screenshot 2022-02-15 at 16 55 29" src="https://user-images.githubusercontent.com/47864126/154076859-242defd3-c338-4876-96a5-884784496b06.png">
 <img width="611" alt="Screenshot 2022-02-15 at 16 55 39" src="https://user-images.githubusercontent.com/47864126/154076884-90fd7724-9a7c-495e-8591-0ec350fce5c2.png">
+
+<img width="736" alt="Screenshot 2022-02-15 at 16 56 17" src="https://user-images.githubusercontent.com/47864126/154076899-b01813b2-af76-4aea-9161-0d32ea5ad08e.png">
+<img width="621" alt="Screenshot 2022-02-15 at 16 57 08" src="https://user-images.githubusercontent.com/47864126/154076939-777bf938-5038-4b34-bb02-44dfd1de08d9.png">
